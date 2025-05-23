@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ADD TEST
-=======
 MainChanged For Test
->>>>>>> 2772611 (sss)
